@@ -1,8 +1,3 @@
-# """
-# Simple timer -- tkinter.
-
-# Zachary Spar <zachspar@gmail.com>
-# """
 import tkinter as tk
 
 
