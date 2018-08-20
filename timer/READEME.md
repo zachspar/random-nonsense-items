@@ -1,5 +1,7 @@
 # Simple Timer
 
+whole seconds timer built with tkinter GUI
+
 ### Prequisites:
  - pip
  - python3
