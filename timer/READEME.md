@@ -1,8 +1,8 @@
 # Simple Timer
 
-# Prequisites:
+### Prequisites:
  - pip
  - python3
 
-## Run Program: 
+### Run Program: 
  - execute `python3 timer.py`
